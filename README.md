@@ -115,26 +115,3 @@ The model is evaluated using the following metrics:
 ## Results
 
 The model achieved **99.05% accuracy** on the test set, with a **0.0245 loss**. The performance of the model across epochs is visualized in the form of accuracy and loss plots.
-
----
-
-## Future Work
-
-- Implement additional **cryptographic protocols** for enhanced data security.
-- Apply the framework to other datasets for broader evaluation.
-- Explore different deep learning architectures such as **Recurrent Neural Networks (RNN)** for temporal analysis.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## Author
-
-- **Jehu Jershone**
-```
-
-You can adapt this README file further to include more project-specific details if needed.
