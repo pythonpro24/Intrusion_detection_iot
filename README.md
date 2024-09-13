@@ -1,5 +1,5 @@
 
-**Efficient Predefined Time Adaptive Neural Network based Cryptography Framework espoused Intrusion Detection for Securing IoT Network**
+# Efficient Predefined Time Adaptive Neural Network based Cryptography Framework espoused Intrusion Detection for Securing IoT Network
 
 ---
 
