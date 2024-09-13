@@ -116,8 +116,6 @@ The model is evaluated using the following metrics:
 
 The model achieved **99.05% accuracy** on the test set, with a **0.0245 loss**. The performance of the model across epochs is visualized in the form of accuracy and loss plots.
 
-![Model Performance](results/performance_metrics.png)
-
 ---
 
 ## Future Work
