@@ -1,12 +1,11 @@
 
-```markdown
-# Efficient Predefined Time Adaptive Neural Network based Cryptography Framework espoused Intrusion Detection for Securing IoT Network
+**Efficient Predefined Time Adaptive Neural Network based Cryptography Framework espoused Intrusion Detection for Securing IoT Network**
+
+---
 
 ## Project Overview
 
-This project focuses on implementing a secure intrusion detection system (IDS) for IoT networks using an **Efficient Predefined Time Adaptive Neural Network (PTANN)** and integrating **Black-Winged Kite** and **Wolf-Bird Optimizer algorithms** for optimization. Additionally, **Low-Complexity Elliptic Galois Cryptography (LCEGC)** is implemented to ensure secure data transmission.
-
-The IDS is built using the **NSL-KDD dataset**, which classifies network traffic into **benign** and **malicious** categories. The system detects intrusions with high accuracy and secures data communication using cryptography.
+This project focuses on implementing a secure intrusion detection system (IDS) for IoT networks using an **Efficient Predefined Time Adaptive Neural Network (PTANN)** and integrating **Black-Winged Kite** and **Wolf-Bird Optimizer algorithms** for optimization. Additionally, **Low-Complexity Elliptic Galois Cryptography (LCEGC)** is
 
 ### Key Features:
 - **Efficient Predefined Time Adaptive Neural Network (PTANN)** for intrusion detection.
